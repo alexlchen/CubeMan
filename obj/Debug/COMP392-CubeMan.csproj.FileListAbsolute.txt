@@ -1,0 +1,6 @@
+E:\CENCOL\Winter2016\COMP392 Advanced Graphics\COMP392-CubeMan\COMP392-CubeMan\obj\Debug\COMP392-CubeMan.csprojResolveAssemblyReference.cache
+E:\CENCOL\Winter2016\COMP392 Advanced Graphics\COMP392-CubeMan\COMP392-CubeMan\bin\COMP392-CubeMan.dll.config
+E:\CENCOL\Winter2016\COMP392 Advanced Graphics\COMP392-CubeMan\COMP392-CubeMan\bin\COMP392-CubeMan.dll
+E:\CENCOL\Winter2016\COMP392 Advanced Graphics\COMP392-CubeMan\COMP392-CubeMan\bin\COMP392-CubeMan.pdb
+E:\CENCOL\Winter2016\COMP392 Advanced Graphics\COMP392-CubeMan\COMP392-CubeMan\obj\Debug\COMP392-CubeMan.dll
+E:\CENCOL\Winter2016\COMP392 Advanced Graphics\COMP392-CubeMan\COMP392-CubeMan\obj\Debug\COMP392-CubeMan.pdb
