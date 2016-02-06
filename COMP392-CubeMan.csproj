@@ -19,7 +19,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.css" />
-    <Content Include="Chapter2_Custom_Geometry.html" />
     <Content Include="Content\app.css" />
     <Content Include="index.html" />
     <Content Include="Scripts\config\screen.js" />
